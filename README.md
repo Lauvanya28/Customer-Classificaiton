@@ -1,2 +1,6 @@
-# Customer-Classificaiton
-Customer classification project using RFM and LightGBM
+# InsightX 💡
+
+## 🔬RFM Analysis 
+## 🎎Customer classification using SVM and Keras Functional API 
+## 🧪Customer churn for each segment 
+## 🕔Next Purchase Prediction 
